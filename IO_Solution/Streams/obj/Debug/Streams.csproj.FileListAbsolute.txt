@@ -1,0 +1,6 @@
+C:\res\intec\IO_Solution\Streams\bin\Debug\Streams.exe.config
+C:\res\intec\IO_Solution\Streams\bin\Debug\Streams.exe
+C:\res\intec\IO_Solution\Streams\bin\Debug\Streams.pdb
+C:\res\intec\IO_Solution\Streams\obj\Debug\Streams.csprojAssemblyReference.cache
+C:\res\intec\IO_Solution\Streams\obj\Debug\Streams.exe
+C:\res\intec\IO_Solution\Streams\obj\Debug\Streams.pdb

@@ -1,0 +1,6 @@
+C:\res\intec\DateTimeSolution\test\bin\Debug\test.exe.config
+C:\res\intec\DateTimeSolution\test\bin\Debug\test.exe
+C:\res\intec\DateTimeSolution\test\bin\Debug\test.pdb
+C:\res\intec\DateTimeSolution\test\obj\Debug\test.exe
+C:\res\intec\DateTimeSolution\test\obj\Debug\test.pdb
+C:\res\intec\DateTimeSolution\test\obj\Debug\test.csprojAssemblyReference.cache

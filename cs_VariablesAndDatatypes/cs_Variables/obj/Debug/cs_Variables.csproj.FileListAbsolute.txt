@@ -1,0 +1,6 @@
+C:\res\intec\cs_VariablesAndDatatypes\cs_Variables\bin\Debug\cs_Variables.exe.config
+C:\res\intec\cs_VariablesAndDatatypes\cs_Variables\bin\Debug\cs_Variables.exe
+C:\res\intec\cs_VariablesAndDatatypes\cs_Variables\bin\Debug\cs_Variables.pdb
+C:\res\intec\cs_VariablesAndDatatypes\cs_Variables\obj\Debug\cs_Variables.exe
+C:\res\intec\cs_VariablesAndDatatypes\cs_Variables\obj\Debug\cs_Variables.pdb
+C:\res\intec\cs_VariablesAndDatatypes\cs_Variables\obj\Debug\cs_Variables.csprojAssemblyReference.cache

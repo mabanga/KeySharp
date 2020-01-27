@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resireservatie", "Resireservatie\Resireservatie.csproj", "{6D62BE6C-3D94-49E8-8DEB-06D481C132E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReisreservatieLibrary", "ReisreservatieLibrary\ReisreservatieLibrary.csproj", "{2F535185-06F9-4E4D-AAE7-1A5D46DAB128}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D62BE6C-3D94-49E8-8DEB-06D481C132E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D62BE6C-3D94-49E8-8DEB-06D481C132E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D62BE6C-3D94-49E8-8DEB-06D481C132E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D62BE6C-3D94-49E8-8DEB-06D481C132E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F535185-06F9-4E4D-AAE7-1A5D46DAB128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F535185-06F9-4E4D-AAE7-1A5D46DAB128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F535185-06F9-4E4D-AAE7-1A5D46DAB128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F535185-06F9-4E4D-AAE7-1A5D46DAB128}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1949B3F1-C7EA-4048-8ACE-4EBBAD8D7003}
+	EndGlobalSection
+EndGlobal

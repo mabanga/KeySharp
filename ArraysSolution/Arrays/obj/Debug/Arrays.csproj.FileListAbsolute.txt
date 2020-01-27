@@ -1,0 +1,6 @@
+C:\res\intec\ArraysSolution\Arrays\bin\Debug\Arrays.exe.config
+C:\res\intec\ArraysSolution\Arrays\bin\Debug\Arrays.exe
+C:\res\intec\ArraysSolution\Arrays\bin\Debug\Arrays.pdb
+C:\res\intec\ArraysSolution\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+C:\res\intec\ArraysSolution\Arrays\obj\Debug\Arrays.exe
+C:\res\intec\ArraysSolution\Arrays\obj\Debug\Arrays.pdb

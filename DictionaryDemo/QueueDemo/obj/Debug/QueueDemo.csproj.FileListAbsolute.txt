@@ -1,0 +1,6 @@
+C:\res\intec\DictionaryDemo\QueueDemo\bin\Debug\QueueDemo.exe.config
+C:\res\intec\DictionaryDemo\QueueDemo\bin\Debug\QueueDemo.exe
+C:\res\intec\DictionaryDemo\QueueDemo\bin\Debug\QueueDemo.pdb
+C:\res\intec\DictionaryDemo\QueueDemo\obj\Debug\QueueDemo.csprojAssemblyReference.cache
+C:\res\intec\DictionaryDemo\QueueDemo\obj\Debug\QueueDemo.exe
+C:\res\intec\DictionaryDemo\QueueDemo\obj\Debug\QueueDemo.pdb

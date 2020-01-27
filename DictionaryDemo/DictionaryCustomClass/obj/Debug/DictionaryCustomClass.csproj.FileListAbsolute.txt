@@ -1,0 +1,6 @@
+C:\res\intec\DictionaryDemo\DictionaryCustomClass\bin\Debug\DictionaryCustomClass.exe.config
+C:\res\intec\DictionaryDemo\DictionaryCustomClass\bin\Debug\DictionaryCustomClass.exe
+C:\res\intec\DictionaryDemo\DictionaryCustomClass\bin\Debug\DictionaryCustomClass.pdb
+C:\res\intec\DictionaryDemo\DictionaryCustomClass\obj\Debug\DictionaryCustomClass.csprojAssemblyReference.cache
+C:\res\intec\DictionaryDemo\DictionaryCustomClass\obj\Debug\DictionaryCustomClass.exe
+C:\res\intec\DictionaryDemo\DictionaryCustomClass\obj\Debug\DictionaryCustomClass.pdb

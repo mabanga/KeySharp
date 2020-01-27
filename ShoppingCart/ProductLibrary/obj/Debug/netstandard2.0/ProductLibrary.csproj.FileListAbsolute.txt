@@ -1,0 +1,8 @@
+C:\res\intec\ShoppingCart\ProductLibrary\bin\Debug\netstandard2.0\ProductLibrary.deps.json
+C:\res\intec\ShoppingCart\ProductLibrary\bin\Debug\netstandard2.0\ProductLibrary.dll
+C:\res\intec\ShoppingCart\ProductLibrary\bin\Debug\netstandard2.0\ProductLibrary.pdb
+C:\res\intec\ShoppingCart\ProductLibrary\obj\Debug\netstandard2.0\ProductLibrary.csprojAssemblyReference.cache
+C:\res\intec\ShoppingCart\ProductLibrary\obj\Debug\netstandard2.0\ProductLibrary.AssemblyInfoInputs.cache
+C:\res\intec\ShoppingCart\ProductLibrary\obj\Debug\netstandard2.0\ProductLibrary.AssemblyInfo.cs
+C:\res\intec\ShoppingCart\ProductLibrary\obj\Debug\netstandard2.0\ProductLibrary.dll
+C:\res\intec\ShoppingCart\ProductLibrary\obj\Debug\netstandard2.0\ProductLibrary.pdb

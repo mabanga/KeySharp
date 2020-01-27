@@ -1,0 +1,8 @@
+C:\res\intec\cs_Oefeningen\Oef3\bin\Debug\Oef3.exe.config
+C:\res\intec\cs_Oefeningen\Oef3\bin\Debug\Oef3.exe
+C:\res\intec\cs_Oefeningen\Oef3\bin\Debug\Oef3.pdb
+C:\res\intec\cs_Oefeningen\Oef3\obj\Debug\Oef3.exe
+C:\res\intec\cs_Oefeningen\Oef3\obj\Debug\Oef3.pdb
+C:\res\intec\cs_Oefeningen\Oef3\bin\Debug\Oef3.exe.CodeAnalysisLog.xml
+C:\res\intec\cs_Oefeningen\Oef3\bin\Debug\Oef3.exe.lastcodeanalysissucceeded
+C:\res\intec\cs_Oefeningen\Oef3\obj\Debug\Oef3.csprojAssemblyReference.cache

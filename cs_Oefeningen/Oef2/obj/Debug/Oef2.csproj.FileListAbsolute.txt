@@ -1,0 +1,10 @@
+C:\res\intec\cs_Oefeningen\Oef2\bin\Debug\Oef2.exe.config
+C:\res\intec\cs_Oefeningen\Oef2\bin\Debug\Oef2.exe
+C:\res\intec\cs_Oefeningen\Oef2\bin\Debug\Oef2.pdb
+C:\res\intec\cs_Oefeningen\Oef2\obj\Debug\Oef2.exe
+C:\res\intec\cs_Oefeningen\Oef2\obj\Debug\Oef2.pdb
+C:\res\intec\cs_Oefeningen\Oef2\bin\Debug\Oef2.exe.manifest
+C:\res\intec\cs_Oefeningen\Oef2\bin\Debug\Oef2.application
+C:\res\intec\cs_Oefeningen\Oef2\obj\Debug\Oef2.exe.manifest
+C:\res\intec\cs_Oefeningen\Oef2\obj\Debug\Oef2.application
+C:\res\intec\cs_Oefeningen\Oef2\obj\Debug\Oef2.csprojAssemblyReference.cache

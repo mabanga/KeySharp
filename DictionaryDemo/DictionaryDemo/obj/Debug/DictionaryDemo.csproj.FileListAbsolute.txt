@@ -1,0 +1,6 @@
+C:\res\intec\DictionaryDemo\DictionaryDemo\bin\Debug\DictionaryDemo.exe.config
+C:\res\intec\DictionaryDemo\DictionaryDemo\bin\Debug\DictionaryDemo.exe
+C:\res\intec\DictionaryDemo\DictionaryDemo\bin\Debug\DictionaryDemo.pdb
+C:\res\intec\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.csprojAssemblyReference.cache
+C:\res\intec\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.exe
+C:\res\intec\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.pdb

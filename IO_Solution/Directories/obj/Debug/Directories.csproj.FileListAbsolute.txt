@@ -1,0 +1,6 @@
+C:\res\intec\IO_Solution\Directories\bin\Debug\Directories.exe.config
+C:\res\intec\IO_Solution\Directories\bin\Debug\Directories.exe
+C:\res\intec\IO_Solution\Directories\bin\Debug\Directories.pdb
+C:\res\intec\IO_Solution\Directories\obj\Debug\Directories.csprojAssemblyReference.cache
+C:\res\intec\IO_Solution\Directories\obj\Debug\Directories.exe
+C:\res\intec\IO_Solution\Directories\obj\Debug\Directories.pdb

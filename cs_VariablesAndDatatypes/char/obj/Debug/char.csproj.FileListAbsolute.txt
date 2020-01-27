@@ -1,0 +1,1 @@
+C:\res\intec\cs_VariablesAndDatatypes\char\obj\Debug\char.csprojAssemblyReference.cache

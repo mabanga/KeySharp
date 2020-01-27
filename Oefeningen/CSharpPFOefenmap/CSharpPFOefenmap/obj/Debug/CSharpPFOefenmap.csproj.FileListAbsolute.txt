@@ -1,0 +1,6 @@
+C:\res\intec\Oefeningen\CSharpPFOefenmap\CSharpPFOefenmap\bin\Debug\CSharpPFOefenmap.exe.config
+C:\res\intec\Oefeningen\CSharpPFOefenmap\CSharpPFOefenmap\bin\Debug\CSharpPFOefenmap.exe
+C:\res\intec\Oefeningen\CSharpPFOefenmap\CSharpPFOefenmap\bin\Debug\CSharpPFOefenmap.pdb
+C:\res\intec\Oefeningen\CSharpPFOefenmap\CSharpPFOefenmap\obj\Debug\CSharpPFOefenmap.csprojAssemblyReference.cache
+C:\res\intec\Oefeningen\CSharpPFOefenmap\CSharpPFOefenmap\obj\Debug\CSharpPFOefenmap.exe
+C:\res\intec\Oefeningen\CSharpPFOefenmap\CSharpPFOefenmap\obj\Debug\CSharpPFOefenmap.pdb

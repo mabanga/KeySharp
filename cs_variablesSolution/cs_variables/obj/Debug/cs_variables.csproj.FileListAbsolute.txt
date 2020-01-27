@@ -1,0 +1,5 @@
+C:\res\intec\cs_variablesSolution\cs_variables\bin\Debug\cs_variables.exe.config
+C:\res\intec\cs_variablesSolution\cs_variables\bin\Debug\cs_variables.exe
+C:\res\intec\cs_variablesSolution\cs_variables\bin\Debug\cs_variables.pdb
+C:\res\intec\cs_variablesSolution\cs_variables\obj\Debug\cs_variables.exe
+C:\res\intec\cs_variablesSolution\cs_variables\obj\Debug\cs_variables.pdb

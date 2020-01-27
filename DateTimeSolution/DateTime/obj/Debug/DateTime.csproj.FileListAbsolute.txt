@@ -1,0 +1,6 @@
+C:\res\intec\DateTimeSolution\DateTime\bin\Debug\DateTime.exe.config
+C:\res\intec\DateTimeSolution\DateTime\bin\Debug\DateTime.exe
+C:\res\intec\DateTimeSolution\DateTime\bin\Debug\DateTime.pdb
+C:\res\intec\DateTimeSolution\DateTime\obj\Debug\DateTime.csprojAssemblyReference.cache
+C:\res\intec\DateTimeSolution\DateTime\obj\Debug\DateTime.exe
+C:\res\intec\DateTimeSolution\DateTime\obj\Debug\DateTime.pdb

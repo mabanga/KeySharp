@@ -1,0 +1,6 @@
+C:\res\intec\cs_oefeningen2\Oef1\bin\Debug\Oef1.exe.config
+C:\res\intec\cs_oefeningen2\Oef1\bin\Debug\Oef1.exe
+C:\res\intec\cs_oefeningen2\Oef1\bin\Debug\Oef1.pdb
+C:\res\intec\cs_oefeningen2\Oef1\obj\Debug\Oef1.csprojAssemblyReference.cache
+C:\res\intec\cs_oefeningen2\Oef1\obj\Debug\Oef1.exe
+C:\res\intec\cs_oefeningen2\Oef1\obj\Debug\Oef1.pdb

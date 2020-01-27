@@ -1,0 +1,7 @@
+C:\res\intec\cs_Oefeningen\Oef6\bin\Debug\Oef6.exe.config
+C:\res\intec\cs_Oefeningen\Oef6\bin\Debug\Oef6.exe
+C:\res\intec\cs_Oefeningen\Oef6\bin\Debug\Oef6.pdb
+C:\res\intec\cs_Oefeningen\Oef6\obj\Debug\Oef6.exe
+C:\res\intec\cs_Oefeningen\Oef6\obj\Debug\Oef6.pdb
+C:\res\intec\cs_Oefeningen\Oef6\bin\Debug\Oef6.exe.CodeAnalysisLog.xml
+C:\res\intec\cs_Oefeningen\Oef6\bin\Debug\Oef6.exe.lastcodeanalysissucceeded

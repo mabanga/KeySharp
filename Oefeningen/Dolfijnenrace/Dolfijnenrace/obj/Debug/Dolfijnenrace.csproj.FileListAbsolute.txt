@@ -1,0 +1,6 @@
+C:\res\intec\Oefeningen\Dolfijnenrace\Dolfijnenrace\bin\Debug\Dolfijnenrace.exe.config
+C:\res\intec\Oefeningen\Dolfijnenrace\Dolfijnenrace\bin\Debug\Dolfijnenrace.exe
+C:\res\intec\Oefeningen\Dolfijnenrace\Dolfijnenrace\bin\Debug\Dolfijnenrace.pdb
+C:\res\intec\Oefeningen\Dolfijnenrace\Dolfijnenrace\obj\Debug\Dolfijnenrace.csprojAssemblyReference.cache
+C:\res\intec\Oefeningen\Dolfijnenrace\Dolfijnenrace\obj\Debug\Dolfijnenrace.exe
+C:\res\intec\Oefeningen\Dolfijnenrace\Dolfijnenrace\obj\Debug\Dolfijnenrace.pdb

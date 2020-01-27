@@ -1,0 +1,9 @@
+C:\res\intec\Generics\WithoutRepository\bin\Debug\WithoutRepository.exe.config
+C:\res\intec\Generics\WithoutRepository\bin\Debug\WithoutRepository.exe
+C:\res\intec\Generics\WithoutRepository\bin\Debug\WithoutRepository.pdb
+C:\res\intec\Generics\WithoutRepository\bin\Debug\Generic.CommonLibrary.dll
+C:\res\intec\Generics\WithoutRepository\bin\Debug\Generic.CommonLibrary.pdb
+C:\res\intec\Generics\WithoutRepository\obj\Debug\WithoutRepository.csprojAssemblyReference.cache
+C:\res\intec\Generics\WithoutRepository\obj\Debug\WithoutRepository.csproj.CopyComplete
+C:\res\intec\Generics\WithoutRepository\obj\Debug\WithoutRepository.exe
+C:\res\intec\Generics\WithoutRepository\obj\Debug\WithoutRepository.pdb

@@ -1,0 +1,6 @@
+C:\res\intec\LoopingSolution\Loop\bin\Debug\Loop.exe.config
+C:\res\intec\LoopingSolution\Loop\bin\Debug\Loop.exe
+C:\res\intec\LoopingSolution\Loop\bin\Debug\Loop.pdb
+C:\res\intec\LoopingSolution\Loop\obj\Debug\Loop.csprojAssemblyReference.cache
+C:\res\intec\LoopingSolution\Loop\obj\Debug\Loop.exe
+C:\res\intec\LoopingSolution\Loop\obj\Debug\Loop.pdb

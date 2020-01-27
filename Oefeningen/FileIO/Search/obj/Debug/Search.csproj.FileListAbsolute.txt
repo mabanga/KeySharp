@@ -1,0 +1,6 @@
+C:\res\intec\Oefeningen\FileIO\Search\bin\Debug\Search.exe.config
+C:\res\intec\Oefeningen\FileIO\Search\bin\Debug\Search.exe
+C:\res\intec\Oefeningen\FileIO\Search\bin\Debug\Search.pdb
+C:\res\intec\Oefeningen\FileIO\Search\obj\Debug\Search.exe
+C:\res\intec\Oefeningen\FileIO\Search\obj\Debug\Search.pdb
+C:\res\intec\Oefeningen\FileIO\Search\obj\Debug\Search.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\res\intec\FileIOWithClass\WinFormGUI\bin\Debug\WinFormGUI.exe.config
+C:\res\intec\FileIOWithClass\WinFormGUI\bin\Debug\WinFormGUI.exe
+C:\res\intec\FileIOWithClass\WinFormGUI\bin\Debug\WinFormGUI.pdb
+C:\res\intec\FileIOWithClass\WinFormGUI\bin\Debug\LibraryIO.dll
+C:\res\intec\FileIOWithClass\WinFormGUI\bin\Debug\LibraryIO.pdb
+C:\res\intec\FileIOWithClass\WinFormGUI\obj\Debug\WinFormGUI.csprojAssemblyReference.cache
+C:\res\intec\FileIOWithClass\WinFormGUI\obj\Debug\WinFormGUI.MainForm.resources
+C:\res\intec\FileIOWithClass\WinFormGUI\obj\Debug\WinFormGUI.Properties.Resources.resources
+C:\res\intec\FileIOWithClass\WinFormGUI\obj\Debug\WinFormGUI.csproj.GenerateResource.cache
+C:\res\intec\FileIOWithClass\WinFormGUI\obj\Debug\WinFormGUI.csproj.CopyComplete
+C:\res\intec\FileIOWithClass\WinFormGUI\obj\Debug\WinFormGUI.exe
+C:\res\intec\FileIOWithClass\WinFormGUI\obj\Debug\WinFormGUI.pdb
+C:\res\intec\FileIOWithClass\WinFormGUI\obj\Debug\WinFormGUI.frmCreateBook.resources

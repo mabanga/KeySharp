@@ -1,0 +1,9 @@
+C:\res\intec\FileIOWithClass\ConsoleGUI\bin\Debug\ConsoleGUI.exe.config
+C:\res\intec\FileIOWithClass\ConsoleGUI\bin\Debug\ConsoleGUI.exe
+C:\res\intec\FileIOWithClass\ConsoleGUI\bin\Debug\ConsoleGUI.pdb
+C:\res\intec\FileIOWithClass\ConsoleGUI\obj\Debug\ConsoleGUI.csprojAssemblyReference.cache
+C:\res\intec\FileIOWithClass\ConsoleGUI\obj\Debug\ConsoleGUI.exe
+C:\res\intec\FileIOWithClass\ConsoleGUI\obj\Debug\ConsoleGUI.pdb
+C:\res\intec\FileIOWithClass\ConsoleGUI\bin\Debug\LibraryIO.dll
+C:\res\intec\FileIOWithClass\ConsoleGUI\bin\Debug\LibraryIO.pdb
+C:\res\intec\FileIOWithClass\ConsoleGUI\obj\Debug\ConsoleGUI.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\res\intec\Introduction_WinForm\Introduction\bin\Debug\Introduction.exe.config
+C:\res\intec\Introduction_WinForm\Introduction\bin\Debug\Introduction.exe
+C:\res\intec\Introduction_WinForm\Introduction\bin\Debug\Introduction.pdb
+C:\res\intec\Introduction_WinForm\Introduction\obj\Debug\Introduction.csprojAssemblyReference.cache
+C:\res\intec\Introduction_WinForm\Introduction\obj\Debug\Introduction.Properties.Resources.resources
+C:\res\intec\Introduction_WinForm\Introduction\obj\Debug\Introduction.csproj.GenerateResource.cache
+C:\res\intec\Introduction_WinForm\Introduction\obj\Debug\Introduction.exe
+C:\res\intec\Introduction_WinForm\Introduction\obj\Debug\Introduction.pdb
+C:\res\intec\Introduction_WinForm\Introduction\obj\Debug\Introduction.Form1.resources

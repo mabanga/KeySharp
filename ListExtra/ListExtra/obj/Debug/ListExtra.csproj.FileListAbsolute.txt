@@ -1,0 +1,6 @@
+C:\res\intec\ListExtra\ListExtra\bin\Debug\ListExtra.exe.config
+C:\res\intec\ListExtra\ListExtra\bin\Debug\ListExtra.exe
+C:\res\intec\ListExtra\ListExtra\bin\Debug\ListExtra.pdb
+C:\res\intec\ListExtra\ListExtra\obj\Debug\ListExtra.csprojAssemblyReference.cache
+C:\res\intec\ListExtra\ListExtra\obj\Debug\ListExtra.exe
+C:\res\intec\ListExtra\ListExtra\obj\Debug\ListExtra.pdb

@@ -1,0 +1,7 @@
+C:\res\intec\cs_Oefeningen\OefSplit\bin\Debug\OefSplit.exe.config
+C:\res\intec\cs_Oefeningen\OefSplit\bin\Debug\OefSplit.exe
+C:\res\intec\cs_Oefeningen\OefSplit\bin\Debug\OefSplit.pdb
+C:\res\intec\cs_Oefeningen\OefSplit\obj\Debug\OefSplit.exe
+C:\res\intec\cs_Oefeningen\OefSplit\obj\Debug\OefSplit.pdb
+C:\res\intec\cs_Oefeningen\OefSplit\bin\Debug\OefSplit.exe.CodeAnalysisLog.xml
+C:\res\intec\cs_Oefeningen\OefSplit\bin\Debug\OefSplit.exe.lastcodeanalysissucceeded

@@ -1,0 +1,6 @@
+C:\res\intec\LoopingSolution\Oef2.2\bin\Debug\Oef2.2.exe.config
+C:\res\intec\LoopingSolution\Oef2.2\bin\Debug\Oef2.2.exe
+C:\res\intec\LoopingSolution\Oef2.2\bin\Debug\Oef2.2.pdb
+C:\res\intec\LoopingSolution\Oef2.2\obj\Debug\Oef2.2.exe
+C:\res\intec\LoopingSolution\Oef2.2\obj\Debug\Oef2.2.pdb
+C:\res\intec\LoopingSolution\Oef2.2\obj\Debug\Oef2.2.csprojAssemblyReference.cache

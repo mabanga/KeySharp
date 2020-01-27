@@ -1,0 +1,8 @@
+C:\res\intec\FileIOWithClass\LibraryIO\bin\Debug\netstandard2.0\LibraryIO.deps.json
+C:\res\intec\FileIOWithClass\LibraryIO\bin\Debug\netstandard2.0\LibraryIO.dll
+C:\res\intec\FileIOWithClass\LibraryIO\bin\Debug\netstandard2.0\LibraryIO.pdb
+C:\res\intec\FileIOWithClass\LibraryIO\obj\Debug\netstandard2.0\LibraryIO.csprojAssemblyReference.cache
+C:\res\intec\FileIOWithClass\LibraryIO\obj\Debug\netstandard2.0\LibraryIO.AssemblyInfoInputs.cache
+C:\res\intec\FileIOWithClass\LibraryIO\obj\Debug\netstandard2.0\LibraryIO.AssemblyInfo.cs
+C:\res\intec\FileIOWithClass\LibraryIO\obj\Debug\netstandard2.0\LibraryIO.dll
+C:\res\intec\FileIOWithClass\LibraryIO\obj\Debug\netstandard2.0\LibraryIO.pdb

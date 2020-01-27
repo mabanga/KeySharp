@@ -1,0 +1,5 @@
+C:\res\intec\Generics\Generic.CommonLibrary\bin\Debug\Generic.CommonLibrary.dll
+C:\res\intec\Generics\Generic.CommonLibrary\bin\Debug\Generic.CommonLibrary.pdb
+C:\res\intec\Generics\Generic.CommonLibrary\obj\Debug\Generic.CommonLibrary.csprojAssemblyReference.cache
+C:\res\intec\Generics\Generic.CommonLibrary\obj\Debug\Generic.CommonLibrary.dll
+C:\res\intec\Generics\Generic.CommonLibrary\obj\Debug\Generic.CommonLibrary.pdb

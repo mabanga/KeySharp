@@ -1,0 +1,6 @@
+C:\res\intec\ListInclass\ListInclass\obj\Debug\ListInclass.csprojAssemblyReference.cache
+C:\res\intec\ListInclass\ListInclass\bin\Debug\ListInclass.exe.config
+C:\res\intec\ListInclass\ListInclass\bin\Debug\ListInclass.exe
+C:\res\intec\ListInclass\ListInclass\bin\Debug\ListInclass.pdb
+C:\res\intec\ListInclass\ListInclass\obj\Debug\ListInclass.exe
+C:\res\intec\ListInclass\ListInclass\obj\Debug\ListInclass.pdb

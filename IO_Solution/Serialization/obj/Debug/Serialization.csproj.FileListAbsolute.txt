@@ -1,0 +1,6 @@
+C:\res\intec\IO_Solution\Serialization\bin\Debug\Serialization.exe.config
+C:\res\intec\IO_Solution\Serialization\bin\Debug\Serialization.exe
+C:\res\intec\IO_Solution\Serialization\bin\Debug\Serialization.pdb
+C:\res\intec\IO_Solution\Serialization\obj\Debug\Serialization.exe
+C:\res\intec\IO_Solution\Serialization\obj\Debug\Serialization.pdb
+C:\res\intec\IO_Solution\Serialization\obj\Debug\Serialization.csprojAssemblyReference.cache

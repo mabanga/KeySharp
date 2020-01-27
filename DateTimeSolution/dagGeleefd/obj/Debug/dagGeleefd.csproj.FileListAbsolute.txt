@@ -1,0 +1,6 @@
+C:\res\intec\DateTimeSolution\dagGeleefd\bin\Debug\dagGeleefd.exe.config
+C:\res\intec\DateTimeSolution\dagGeleefd\bin\Debug\dagGeleefd.exe
+C:\res\intec\DateTimeSolution\dagGeleefd\bin\Debug\dagGeleefd.pdb
+C:\res\intec\DateTimeSolution\dagGeleefd\obj\Debug\dagGeleefd.csprojAssemblyReference.cache
+C:\res\intec\DateTimeSolution\dagGeleefd\obj\Debug\dagGeleefd.exe
+C:\res\intec\DateTimeSolution\dagGeleefd\obj\Debug\dagGeleefd.pdb

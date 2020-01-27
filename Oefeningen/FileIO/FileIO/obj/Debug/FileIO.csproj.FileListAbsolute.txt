@@ -1,0 +1,6 @@
+C:\res\intec\Oefeningen\FileIO\FileIO\bin\Debug\FileIO.exe.config
+C:\res\intec\Oefeningen\FileIO\FileIO\bin\Debug\FileIO.exe
+C:\res\intec\Oefeningen\FileIO\FileIO\bin\Debug\FileIO.pdb
+C:\res\intec\Oefeningen\FileIO\FileIO\obj\Debug\FileIO.csprojAssemblyReference.cache
+C:\res\intec\Oefeningen\FileIO\FileIO\obj\Debug\FileIO.exe
+C:\res\intec\Oefeningen\FileIO\FileIO\obj\Debug\FileIO.pdb

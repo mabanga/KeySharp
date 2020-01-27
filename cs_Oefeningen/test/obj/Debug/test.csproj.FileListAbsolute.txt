@@ -1,0 +1,7 @@
+C:\res\intec\cs_Oefeningen\test\bin\Debug\test.exe.config
+C:\res\intec\cs_Oefeningen\test\bin\Debug\test.exe
+C:\res\intec\cs_Oefeningen\test\bin\Debug\test.pdb
+C:\res\intec\cs_Oefeningen\test\obj\Debug\test.exe
+C:\res\intec\cs_Oefeningen\test\obj\Debug\test.pdb
+C:\res\intec\cs_Oefeningen\test\bin\Debug\test.exe.CodeAnalysisLog.xml
+C:\res\intec\cs_Oefeningen\test\bin\Debug\test.exe.lastcodeanalysissucceeded

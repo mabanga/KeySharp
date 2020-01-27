@@ -1,0 +1,6 @@
+C:\res\intec\IO_Solution\Binaries\bin\Debug\Binaries.exe.config
+C:\res\intec\IO_Solution\Binaries\bin\Debug\Binaries.exe
+C:\res\intec\IO_Solution\Binaries\bin\Debug\Binaries.pdb
+C:\res\intec\IO_Solution\Binaries\obj\Debug\Binaries.exe
+C:\res\intec\IO_Solution\Binaries\obj\Debug\Binaries.pdb
+C:\res\intec\IO_Solution\Binaries\obj\Debug\Binaries.csprojAssemblyReference.cache

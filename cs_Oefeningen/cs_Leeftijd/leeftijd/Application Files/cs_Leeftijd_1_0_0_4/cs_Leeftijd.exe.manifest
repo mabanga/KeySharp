@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="cs_Leeftijd.exe" version="1.0.0.4" publicKeyToken="04cb506ae17a30f3" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="cs_Leeftijd" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="cs_Leeftijd.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="cs_Leeftijd.exe" size="6080">
+      <assemblyIdentity name="cs_Leeftijd" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>dybv6sIVc138jo1Bd8WFCDPf8kBeAa4PNmbRw4gYYHU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="cs_Leeftijd.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=CURSISTEN\ERICK" issuerKeyHash="bae16b4d17cf4a8db318de38d775640d3f5632ca" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>9oC6NWC/1HgkJdYTlFaGye5Is1ELoPNwNQg44joh4ZY=</DigestValue></Reference></SignedInfo><SignatureValue>w54N4nYfDufXQ+DMr33FGN3RHKj8VzOxYTjz+ZvCRh88oznCbGHl3I6bFPsFH5dlCMt5S26j/3YFMJB6iP9K2OzNgQ1wrhXgJwtLG0Kc3tUyfIAlD5RhGZkSK3Q8tGWJ2Hff3ksEvK+oPVZDxKRDNkD9V8Sug7cE1UMGd08KPd4=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>zn+x+ESRcuADAYiBmpS9nWALj+hlMGfXzyNBHUy3i44nRUuQhoh34ZKThFOMxS18DnjMKvtEGMgCD/XV5graJkzgPyxm/g5jo3F6Oznjsih3oAGPVa+8hy2dLYUzu6QkgZrm94JsHLZc7EDPiG+DeRjsBxANuyWSdgD0GezR0Hk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="96e1213ae238083570f3a00b51b348eec986569413d6252478d4bf6035ba80f6" Description="" Url=""><as:assemblyIdentity name="cs_Leeftijd.exe" version="1.0.0.4" publicKeyToken="04cb506ae17a30f3" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=CURSISTEN\ERICK</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>OVUMqKCV6hWO/G/JlrmNY/0J/8K4FaVfK1YwKF4o6NQ=</DigestValue></Reference></SignedInfo><SignatureValue>N/jlLBq2j+/wnsSNi5T/g7hM7tHPg6ndiYWMth4xR2IFMWoKfAKuYVeO8PBH9Li9ozosFJWhG50LUtQ+f1huQsWEfjjlHMzsGpr6SrT/CSf3topVoQpzh8qgwabmfoxmyolqOpWBlhKkRDSdXE3hP8hZX3TJ4G9jJifeHk/5UwM=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>zn+x+ESRcuADAYiBmpS9nWALj+hlMGfXzyNBHUy3i44nRUuQhoh34ZKThFOMxS18DnjMKvtEGMgCD/XV5graJkzgPyxm/g5jo3F6Oznjsih3oAGPVa+8hy2dLYUzu6QkgZrm94JsHLZc7EDPiG+DeRjsBxANuyWSdgD0GezR0Hk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB1TCCAT6gAwIBAgIQecFIfRfNG7ZLowfT5ULT7jANBgkqhkiG9w0BAQsFADApMScwJQYDVQQDHh4AQwBVAFIAUwBJAFMAVABFAE4AXABFAFIASQBDAEswHhcNMTkxMDI0MDkyNDE2WhcNMjAxMDIzMTUyNDE2WjApMScwJQYDVQQDHh4AQwBVAFIAUwBJAFMAVABFAE4AXABFAFIASQBDAEswgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAM5/sfhEkXLgAwGIgZqUvZ1gC4/oZTBn188jQR1Mt4uOJ0VLkIaId+GSk4RTjMUtfA54zCr7RBjIAg/11eYK2iZM4D8sZv4OY6Nxejs547Iod6ABj1WvvIctnS2FM7ukJIGa5veCbBy2XOxAz4hvg3kY7AcQDbslknYA9Bns0dB5AgMBAAEwDQYJKoZIhvcNAQELBQADgYEAiBGUnP8o6oghPdYaPBGn2fd+xLRpvIzJj7uVzftTF2iNl6XsSYM6vZ7LyWHx3dx4/+0xiVziODOqky9Pt2ocYPdFI26PTKWCGwRv/oTciW/EODwRp/iVCHlLSwkGFRUcrtLj2TvC3CzgbiWWHdtwqk8ibPPwZdgtkOrTlDo60lA=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,7 @@
+C:\res\intec\cs_Oefeningen\RemoveReplace\bin\Debug\RemoveReplace.exe.config
+C:\res\intec\cs_Oefeningen\RemoveReplace\bin\Debug\RemoveReplace.exe
+C:\res\intec\cs_Oefeningen\RemoveReplace\bin\Debug\RemoveReplace.pdb
+C:\res\intec\cs_Oefeningen\RemoveReplace\obj\Debug\RemoveReplace.exe
+C:\res\intec\cs_Oefeningen\RemoveReplace\obj\Debug\RemoveReplace.pdb
+C:\res\intec\cs_Oefeningen\RemoveReplace\bin\Debug\RemoveReplace.exe.CodeAnalysisLog.xml
+C:\res\intec\cs_Oefeningen\RemoveReplace\bin\Debug\RemoveReplace.exe.lastcodeanalysissucceeded
