@@ -1,0 +1,6 @@
+C:\res\intec\IEnumerableMethod\IEnumerableMethod\bin\Debug\IEnumerableMethod.exe.config
+C:\res\intec\IEnumerableMethod\IEnumerableMethod\bin\Debug\IEnumerableMethod.exe
+C:\res\intec\IEnumerableMethod\IEnumerableMethod\bin\Debug\IEnumerableMethod.pdb
+C:\res\intec\IEnumerableMethod\IEnumerableMethod\obj\Debug\IEnumerableMethod.csprojAssemblyReference.cache
+C:\res\intec\IEnumerableMethod\IEnumerableMethod\obj\Debug\IEnumerableMethod.exe
+C:\res\intec\IEnumerableMethod\IEnumerableMethod\obj\Debug\IEnumerableMethod.pdb
