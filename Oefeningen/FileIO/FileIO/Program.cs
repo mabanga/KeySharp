@@ -26,6 +26,7 @@ namespace FileIO
             CreateDirectory(rootDir);
             PickAnumber();
             Write(fullPath, Numbers);
+            Reader(fullPath, Numbers);
             Quit();
         }
         static void PickAnumber()
@@ -68,6 +69,15 @@ namespace FileIO
             }
             writer.Flush();
             writer.Close();
+        }
+        static void Reader(string path, List<int> list)
+        {
+            StreamReader reader = new StreamReader(path);
+
+            foreach (var item in list)
+            {
+                reader.ReadLine();
+            }
         }
         static void Quit()
         {
