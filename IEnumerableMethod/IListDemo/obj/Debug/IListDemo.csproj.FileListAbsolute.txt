@@ -4,3 +4,9 @@ C:\res\intec\IEnumerableMethod\IListDemo\bin\Debug\IListDemo.pdb
 C:\res\intec\IEnumerableMethod\IListDemo\obj\Debug\IListDemo.exe
 C:\res\intec\IEnumerableMethod\IListDemo\obj\Debug\IListDemo.pdb
 C:\res\intec\IEnumerableMethod\IListDemo\obj\Debug\IListDemo.csprojAssemblyReference.cache
+C:\res\KeySharp\IEnumerableMethod\IListDemo\bin\Debug\IListDemo.exe.config
+C:\res\KeySharp\IEnumerableMethod\IListDemo\bin\Debug\IListDemo.exe
+C:\res\KeySharp\IEnumerableMethod\IListDemo\bin\Debug\IListDemo.pdb
+C:\res\KeySharp\IEnumerableMethod\IListDemo\obj\Debug\IListDemo.csprojAssemblyReference.cache
+C:\res\KeySharp\IEnumerableMethod\IListDemo\obj\Debug\IListDemo.exe
+C:\res\KeySharp\IEnumerableMethod\IListDemo\obj\Debug\IListDemo.pdb
