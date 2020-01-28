@@ -18,7 +18,9 @@ namespace Karakters
             Write(fullPath);
             FileInfo fileInfo = new FileInfo(fullPath);
             //fileInfo.
-            Console.WriteLine($"The Length FileLines: {fileInfo.} lines");
+            Console.WriteLine($"Aantal Lijnen : {File.ReadAllLines(fullPath).Length}");
+            File.ReadAllLines(fullPath);
+            //Console.WriteLine($"The Length FileLines: {fileInfo.} lines");
             Console.WriteLine($"The Length FileContent: {fileInfo.Length} characters");
             //Console.WriteLine($"The Length FileName: {fullPath.Length} characters");
             Console.ReadKey();
