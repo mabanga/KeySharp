@@ -4,3 +4,9 @@ C:\res\intec\Oefeningen\FileIO\Karakters\bin\Debug\Karakters.pdb
 C:\res\intec\Oefeningen\FileIO\Karakters\obj\Debug\Karakters.csprojAssemblyReference.cache
 C:\res\intec\Oefeningen\FileIO\Karakters\obj\Debug\Karakters.exe
 C:\res\intec\Oefeningen\FileIO\Karakters\obj\Debug\Karakters.pdb
+C:\res\KeySharp\Oefeningen\FileIO\Karakters\bin\Debug\Karakters.exe.config
+C:\res\KeySharp\Oefeningen\FileIO\Karakters\bin\Debug\Karakters.exe
+C:\res\KeySharp\Oefeningen\FileIO\Karakters\bin\Debug\Karakters.pdb
+C:\res\KeySharp\Oefeningen\FileIO\Karakters\obj\Debug\Karakters.csprojAssemblyReference.cache
+C:\res\KeySharp\Oefeningen\FileIO\Karakters\obj\Debug\Karakters.exe
+C:\res\KeySharp\Oefeningen\FileIO\Karakters\obj\Debug\Karakters.pdb

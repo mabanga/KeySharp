@@ -20,13 +20,16 @@ namespace FileIO
         static string lottoFile = $"{seedDay}.{seedMonth}.{seedYear}_{seedHour}.{seedMinute}.{seedSecond}.txt";
         static string fullPath = $"{rootDir + lottoFile}";
         public static List<int> Numbers = new List<int>();
+        public static List<string> numbersList = new List<string>();
         public static int random;
         static void Main(string[] args)
         {
             CreateDirectory(rootDir);
             PickAnumber();
             Write(fullPath, Numbers);
-            Reader(fullPath, Numbers);
+            Reader(fullPath, numbersList);
+            //File.ReadAllLines(fullPath);
+
             Quit();
         }
         static void PickAnumber()
@@ -70,13 +73,18 @@ namespace FileIO
             writer.Flush();
             writer.Close();
         }
-        static void Reader(string path, List<int> list)
+        static void Reader(string path, List<string> list)
         {
-            StreamReader reader = new StreamReader(path);
+            //StreamReader reader = new StreamReader(path);
 
+            //foreach (var item in list)
+            //{
+            //    File.ReadAllLines(fullPath);
+            //}
+            list = File.ReadAllLines(path).ToList();
             foreach (var item in list)
             {
-                reader.ReadLine();
+                Console.WriteLine(item);
             }
         }
         static void Quit()
