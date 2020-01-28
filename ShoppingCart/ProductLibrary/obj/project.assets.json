@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\res\\intec\\ShoppingCart\\ProductLibrary\\ProductLibrary.csproj",
+      "projectUniqueName": "C:\\res\\KeySharp\\ShoppingCart\\ProductLibrary\\ProductLibrary.csproj",
       "projectName": "ProductLibrary",
-      "projectPath": "C:\\res\\intec\\ShoppingCart\\ProductLibrary\\ProductLibrary.csproj",
+      "projectPath": "C:\\res\\KeySharp\\ShoppingCart\\ProductLibrary\\ProductLibrary.csproj",
       "packagesPath": "C:\\Users\\ERICK\\.nuget\\packages\\",
-      "outputPath": "C:\\res\\intec\\ShoppingCart\\ProductLibrary\\obj\\",
+      "outputPath": "C:\\res\\KeySharp\\ShoppingCart\\ProductLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ERICK\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,5 +1,7 @@
 ﻿using ProductLibrary.Models;
 using System;
+using System.Collections.Generic;
+using System.IO;
 using System.Windows.Forms;
 
 namespace ShoppingCartGUI
@@ -24,12 +26,24 @@ namespace ShoppingCartGUI
         }
         private void btnCreate_Click(object sender, EventArgs e)
         {
+            string txt = $"{p.Make} {p.Model} {p.Price}";
             p = new Product();
             p.Make = txtMake.Text;
             p.Model = txtModel.Text;
             p.Price = Convert.ToDecimal(txtPrice.Text);
             MessageBox.Show(p.ToString());
             lstProduct.Items.Add(p);
+            Write(@"c:\res\data\car.txt", txt) ;
+        }
+        public void Write(string path, string txt)
+        {
+            //List<string> list = new List<string>();
+            StreamWriter writer = new StreamWriter(path);
+            //writer.NewLine.;
+                writer.WriteLine(txt);
+
+            writer.Flush();
+            writer.Close();
         }
         private void btnAddCart_Click(object sender, EventArgs e)
         {

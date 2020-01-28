@@ -10,3 +10,15 @@ C:\res\intec\ShoppingCart\ShoppingCartGUI\obj\Debug\ShoppingCartGUI.pdb
 C:\res\intec\ShoppingCart\ShoppingCartGUI\bin\Debug\ProductLibrary.dll
 C:\res\intec\ShoppingCart\ShoppingCartGUI\bin\Debug\ProductLibrary.pdb
 C:\res\intec\ShoppingCart\ShoppingCartGUI\obj\Debug\ShoppingCartGUI.csproj.CopyComplete
+C:\res\KeySharp\ShoppingCart\ShoppingCartGUI\bin\Debug\ShoppingCartGUI.exe.config
+C:\res\KeySharp\ShoppingCart\ShoppingCartGUI\bin\Debug\ShoppingCartGUI.exe
+C:\res\KeySharp\ShoppingCart\ShoppingCartGUI\bin\Debug\ShoppingCartGUI.pdb
+C:\res\KeySharp\ShoppingCart\ShoppingCartGUI\bin\Debug\ProductLibrary.dll
+C:\res\KeySharp\ShoppingCart\ShoppingCartGUI\bin\Debug\ProductLibrary.pdb
+C:\res\KeySharp\ShoppingCart\ShoppingCartGUI\obj\Debug\ShoppingCartGUI.csprojAssemblyReference.cache
+C:\res\KeySharp\ShoppingCart\ShoppingCartGUI\obj\Debug\ShoppingCartGUI.MainForm.resources
+C:\res\KeySharp\ShoppingCart\ShoppingCartGUI\obj\Debug\ShoppingCartGUI.Properties.Resources.resources
+C:\res\KeySharp\ShoppingCart\ShoppingCartGUI\obj\Debug\ShoppingCartGUI.csproj.GenerateResource.cache
+C:\res\KeySharp\ShoppingCart\ShoppingCartGUI\obj\Debug\ShoppingCartGUI.csproj.CopyComplete
+C:\res\KeySharp\ShoppingCart\ShoppingCartGUI\obj\Debug\ShoppingCartGUI.exe
+C:\res\KeySharp\ShoppingCart\ShoppingCartGUI\obj\Debug\ShoppingCartGUI.pdb

@@ -1,0 +1,6 @@
+C:\res\KeySharp\Oefeningen\FileIO\SortString\bin\Debug\SortString.exe.config
+C:\res\KeySharp\Oefeningen\FileIO\SortString\bin\Debug\SortString.exe
+C:\res\KeySharp\Oefeningen\FileIO\SortString\bin\Debug\SortString.pdb
+C:\res\KeySharp\Oefeningen\FileIO\SortString\obj\Debug\SortString.csprojAssemblyReference.cache
+C:\res\KeySharp\Oefeningen\FileIO\SortString\obj\Debug\SortString.exe
+C:\res\KeySharp\Oefeningen\FileIO\SortString\obj\Debug\SortString.pdb

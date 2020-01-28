@@ -1,0 +1,6 @@
+C:\res\KeySharp\Oefeningen\FileIO\WachtwoordGenereer\bin\Debug\WachtwoordGenereer.exe.config
+C:\res\KeySharp\Oefeningen\FileIO\WachtwoordGenereer\bin\Debug\WachtwoordGenereer.exe
+C:\res\KeySharp\Oefeningen\FileIO\WachtwoordGenereer\bin\Debug\WachtwoordGenereer.pdb
+C:\res\KeySharp\Oefeningen\FileIO\WachtwoordGenereer\obj\Debug\WachtwoordGenereer.csprojAssemblyReference.cache
+C:\res\KeySharp\Oefeningen\FileIO\WachtwoordGenereer\obj\Debug\WachtwoordGenereer.exe
+C:\res\KeySharp\Oefeningen\FileIO\WachtwoordGenereer\obj\Debug\WachtwoordGenereer.pdb
