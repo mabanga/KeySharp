@@ -1,0 +1,6 @@
+C:\res\KeySharp\Oefeningen\FileIO\IComparablevsIComparer\bin\Debug\IComparablevsIComparer.exe.config
+C:\res\KeySharp\Oefeningen\FileIO\IComparablevsIComparer\bin\Debug\IComparablevsIComparer.exe
+C:\res\KeySharp\Oefeningen\FileIO\IComparablevsIComparer\bin\Debug\IComparablevsIComparer.pdb
+C:\res\KeySharp\Oefeningen\FileIO\IComparablevsIComparer\obj\Debug\IComparablevsIComparer.csprojAssemblyReference.cache
+C:\res\KeySharp\Oefeningen\FileIO\IComparablevsIComparer\obj\Debug\IComparablevsIComparer.exe
+C:\res\KeySharp\Oefeningen\FileIO\IComparablevsIComparer\obj\Debug\IComparablevsIComparer.pdb

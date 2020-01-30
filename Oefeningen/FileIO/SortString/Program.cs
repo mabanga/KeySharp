@@ -30,7 +30,7 @@ namespace SortString
                 Console.WriteLine($"{un1 } - {un }");
             }
 
-            //Console.WriteLine(String.Compare(un1, un));
+            Console.WriteLine(String.Compare(un1, un));
 
             Console.ReadKey();
         }
